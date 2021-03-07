@@ -1,0 +1,455 @@
+*
+li {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+ul {
+    padding: 0;
+}  
+.block__background_logo {
+    width: 382px;
+    height: 382px;
+    left: 522px;
+    top: 400px;
+}
+.block__background_table {
+    width: 568px;
+    height: 577px;
+    left: 584px;
+    top: 165px;
+}
+.navbar__logo {
+    margin: 0 10px 0 80px;
+}
+.navbar__logo_sign {
+    width: 154px;
+    height: 33px;
+    left: 118px;
+    top: 23px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 33px;
+    letter-spacing: 0.25em;
+}
+.nav-link {
+    margin-left: 48px;
+}
+.color-text {
+    color: orange;
+}
+.nav__button {
+    width: 137px;
+    height: 40px;
+    left: 600px;
+    border-radius: 8px;
+    background: #F9BDBD;
+    border: 1px solid #3E3F43;
+    margin: 0 48px 0 28px;
+}
+.container__text_place {
+    margin: 150px 50px 0;
+    width: 504px;
+    font-family: Nunito;
+    font-weight: normal;
+    font-size: 36px;
+}
+.container__text {
+    margin: 10px 30px 0;
+    width: 504px;
+    font-family: Nunito;
+    font-weight: bold;
+    font-size: 72px;
+}
+.btn__orange {
+    margin: 50px 100px 0;
+    width: 175px;
+    height: 50px;
+    background: #DAA520;
+    border-radius: 4px;
+    color: #fff;
+}
+.container__about_top {
+    margin: 30px 30px 0;
+    width: 80%;
+    height: 98px;
+    left: 100px;
+}
+.container__about_yelloy {
+    margin-right: 200px;
+    width: 426px;
+    height: 388px;
+}
+.container__about_text {
+    margin-top: 170px;
+    float: right;
+    width: 448px;
+    height: 98px;
+    font-family: Nunito;
+    font-size: 36px;
+    color: #3E3F43;
+}
+.container__about_text-content {
+    margin-top: 10px;
+    float: right;
+    width: 448px;
+    height: 66px;
+    font-family: Nunito;
+    font-size: 24px;
+}
+.container__about_dishes {
+    margin: 400px 20px 0 0;
+    position: absolute;
+    width: 382px;
+    height: 382px;
+}
+.container__about_made {
+    margin: 300px 20px 0 0;
+    width: 648px;
+    font-family: Nunito;
+    font-size: 36px;
+}
+.container__about_size {
+    margin: 10px 20px 0 0;
+    width: 648px;
+    font-family: Nunito;
+    font-size: 24px;
+}
+.container__about_spoon {
+    margin: 30px 20px;
+    width: 287px;
+    height: 384px;
+    float: right;
+}
+.container__works_top {
+    margin: 30px 20px;
+    width: 80%;
+    height: 98px;
+}
+.container__frame_items {
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+}
+.btn__works_button {
+    position: relative;
+    left: 45%;
+    margin-top: 50px;
+    width: 212px;
+    height: 50px;
+    background: #DAA520;
+    border-radius: 4px;
+    box-align: center;
+}
+.container__categories_top {
+    margin-top: 50px;
+    width: 80%;
+}
+.container__frame_categories {
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 952px;
+    height: 400px;
+}
+.container__frame_categories-items {
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 616px;
+    height: 400px;
+}
+.container__testimony_top {
+    margin-top: 50px;
+    width: 80%;
+}
+.container__testimony_bedroom {
+    margin-top: 20px;
+    width: 240px;
+}
+.container__testimony_daylight {
+    margin-top: 20px;
+    width: 240px;
+}
+.container__testimony_sandra {
+    margin-top: 20px;
+    width: 384px;
+}
+.pagination {
+    margin-top: 20px;
+}
+.pagination-link {
+    margin-right: 15px;
+    width: 55px;
+    height: 19px;
+    font-family: Nunito;
+    font-size: 18px;
+    color: #C4C4C4;
+}
+.pagination-links {
+    width: 31px;
+    height: 19px;
+    font-family: Nunito;
+    font-size: 18px;
+    color: #3E3F43;
+}
+.btn-primary-orange {
+    width: 80px;
+    height: 20px;
+    background: #DAA520;
+    border-radius: 8px;
+    margin-right: 20px;
+}
+.btn-primary {
+    width: 80px;
+    height: 20px;
+    left: 10px;
+    background: grey;
+    border-radius: 8px;
+    display: inline;
+    margin-right: 20px;
+}
+.container__text_subscribe {
+    margin: 60px 20px 0 0;
+    width: 493px;
+    font-family: Nunito;
+    font-weight: bold;
+    font-size: 18px;
+}
+.container__text_subscribe-content {
+    width: 493px;
+    font-family: Nunito;
+    font-size: 18px;
+}
+.container__email {
+    display: inline;
+    margin-top: 60px;
+    width: 355px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 1px solid #DAA520;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.btn-primary-input {
+    display: inline;
+    background-color: orange;
+    width: 200px;
+    height: 40px;
+    font-family: Nunito;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.container__footer_photo {
+    width: 410px;
+    height: 357px;
+    float: right;
+    margin-top: 20px;
+}
+.container__footer_logo {
+    width: 192px;
+    height: 33px;
+    left: 0px;
+    flex: none;
+    flex-grow: 0;
+    margin: 50px 20px 0;
+}
+.container__phone-number {
+    width: 97px;
+    font-family: Nunito;
+    font-size: 14px;
+    color: #8D8D8D;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 10px 0 0 20px;
+}
+.container__email-address {
+    width: 130px;
+    left: 0px;
+    font-family: Nunito;
+    font-size: 14px;
+    line-height: 19px;
+    color: #8D8D8D;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 10px 0 0 20px;
+}
+.container__place {
+    width: 112px;
+    height: 19px;
+    font-family: Nunito;
+    font-size: 14px;
+    color: #8D8D8D;
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+    margin: 10px 0 0 20px;
+}
+.container__product {
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333333;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 50px 20px 0;
+}
+.container__product_furnitures {
+    font-family: Nunito;
+    font-size: 14px;
+    color: #8D8D8D;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 10px 20px;
+}
+.container__product_packages {
+    font-family: Nunito;
+    font-size: 14px;
+    color: #8D8D8D;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 10px 20px;
+}
+.container__product_services {
+    font-family: Nunito;
+    font-size: 14px;
+    color: #8D8D8D;
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+    margin: 10px 20px;
+}
+.container__resources {
+    font-family: Nunito;
+    font-weight: bold;
+    font-size: 18px;
+    color: #333333;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 50px 20px 0;
+}
+.container__resources_blog {
+    font-family: Nunito;
+    font-size: 14px;
+    color: #8D8D8D;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 10px 20px;
+}
+.container__resources_faqs {
+    font-family: Nunito;
+    font-size: 14px;
+    color: #8D8D8D;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 10px 20px;
+}
+.container__resources_contact-us {
+    font-family: Nunito;
+    font-size: 14px;
+    color: #8D8D8D;
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+    margin: 10px 20px;
+}
+.container__company {
+    font-family: Nunito;
+    font-weight: bold;
+    font-size: 18px;
+    color: #333333;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 50px 20px 0;
+}
+.container__company_about-us {
+    font-family: Nunito;
+    font-size: 14px;
+    color: #8D8D8D;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 10px 20px;
+}
+.container__company_jobs {
+    font-family: Nunito;
+    font-size: 14px;
+    color: #8D8D8D;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 10px 20px;
+}
+.container__company_our-team {
+    font-family: Nunito;
+    font-size: 14px;
+    color: #8D8D8D;
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+    margin: 10px 20px;
+}
+.container__follow-us {
+    font-family: Nunito;
+    font-weight: bold;
+    font-size: 18px;
+    color: #333333;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 50px 20px 0;
+}
+.container__follow-us_facebook {
+    font-family: Nunito;
+    font-size: 14px;
+    color: #8D8D8D;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 10px 20px;
+}
+.container__follow-us_instagram {
+    font-family: Nunito;
+    font-size: 14px;
+    color: #8D8D8D;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 10px 20px;
+}
+.container__follow-us_twitter {
+    font-family: Nunito;
+    font-size: 14px;
+    color: #8D8D8D;
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+    margin: 10px 20px;
+}
+
+@media (max-width: 768px){
+.container__about_made {
+    width: 50%;
+    margin: 20px;
+}
+.container__about_size {
+    width: 70%;
+    margin: 20px;
+}
+}
